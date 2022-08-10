@@ -1,19 +1,5 @@
-# coaea492c99e8be2c2e1ecda9
+Solo project in Scrimba React course
 
-Quick start:
-
-```
-$ yarn # npm install
-$ yarn build # npm run build
-````
-
-## Development
-
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
-
-```
-$ yarn watch # npm run watch
-```
 
 ## About Scrimba
 
